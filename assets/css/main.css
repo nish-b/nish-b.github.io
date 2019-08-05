@@ -177,7 +177,7 @@ input, select, textarea {
 	h1, h2, h3, h4, h5, h6 {
 		color: #ffffff;
 		font-weight: bold;
-		line-height: 1.5;
+		line-height: 1;
 		margin: 0 0 0.25em 0;
 	}
 
@@ -187,7 +187,7 @@ input, select, textarea {
 		}
 
 	h1 {
-		font-size: 6.5em;
+		font-size: 7em;
 	}
 
 		h1.major {
@@ -3876,7 +3876,7 @@ input, select, textarea {
 	#intro {
 		background-attachment: fixed;
 		background-image: url("images/intro.svg");
-		background-position: top right;
+		background-position: center;
 		background-repeat: no-repeat;
 		background-size: 100% 100%;
 	}
@@ -3896,7 +3896,7 @@ input, select, textarea {
 			@media screen and (max-width: 736px) {
 
 				#intro p {
-					font-size: 1em;
+					font-size: 1.25em;
 				}
 
 			}
