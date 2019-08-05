@@ -191,7 +191,7 @@ input, select, textarea {
 	}
 
 		h1.major {
-			margin: 0 0 0.5em 0;
+			margin: 0 0 0em 0;
 			position: relative;
 			padding-bottom: 0.35em;
 		}
