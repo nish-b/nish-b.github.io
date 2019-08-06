@@ -1,17 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url(customfonts.css);
 
-/* Custom font */
-
-/* @font-face {
-    font-family: 'gilroy';
-    src: url('assets/webfonts/gilroy-extrabold-webfont.woff2') format('woff2'),
-         url('assets/webfonts/gilroy-extrabold-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-} */
-
 /*
 	Hyperspace by HTML5 UP
 	html5up.net | @ajlkn
@@ -199,7 +188,7 @@ input, select, textarea {
 		}
 
 	h1 {
-		font-size: 7em;
+		font-size: 5.5em;
 	}
 
 		h1.major {

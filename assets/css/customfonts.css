@@ -4,9 +4,14 @@
 
 @font-face {
     font-family: 'gilroyextrabold';
-    src: url('gilroy-extrabold-webfont.woff2') format('woff2'),
-         url('gilroy-extrabold-webfont.woff') format('woff');
+    src: url('webfonts2/gilroy-extrabold-webfont.woff2') format('woff2'),
+         url('webfonts2/gilroy-extrabold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
+}
+
+@font-face {font-family: 'Mont-HeavyDEMO';
+    src: url('webfonts2/39E32C_0_0.eot');
+    src: url('webfonts2/39E32C_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts2/39E32C_0_0.woff2') format('woff2'),url('webfonts2/39E32C_0_0.woff') format('woff'),url('webfonts2/39E32C_0_0.ttf') format('truetype');
 }
